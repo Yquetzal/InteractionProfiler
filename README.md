@@ -26,3 +26,8 @@ At the end, some plots show you how the values changed. The plots should tend to
 There are two optional parameters to the program
 * `-l INT`  (a limit to the number of interactions to consider. You can use it if your file takes too much time to process, to have a partial result)
 * `-s INT` (the number of steps to make. Default 10. More steps means a slower computation but more partial results. Less steps means faster computation, less partial results.
+* 
+
+Note that in order to run this program, you'll need two things: 
+* python
+* the igraph library for python
