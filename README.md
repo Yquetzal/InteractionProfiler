@@ -18,7 +18,7 @@ It also corresponds to the edgelist format or the ncol format in graphs. Repeate
 
 To run the program, the basic command is:
 
-`python YOUR_FILE` 
+`python comNetworkMain YOUR_FILE` 
 
 this will run the program, giving you a partial results every time 1/10 of the file has been processed.
 At the end, some plots show you how the values changed. The plots should tend to a stabilization, otherwise it means that you do not hav enough data... or that the method has a flaw. In this case, do not hesitate to send your comments !
